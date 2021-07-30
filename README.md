@@ -1,5 +1,10 @@
 ### Olá Eu o Rodrigo Aquino
 
+ - 😄 Estudando Javascript/ Flutter/ Hmtl /Css/ 
+ - 🌱
+
+-  
+
  <div>
   <a href="https://github.com/RodrigoAquino88">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAquino88&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
